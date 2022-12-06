@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.bg-container{
+background-color: #1e293b;
+background-size: cover;
+text-align:center;
+padding-top:15px;
+padding-bottom:15px;
+
+}
+.main-heading{
+    color:#f0bb03;
+   font-size:50px;
+}
+.heading{
+color:white;
+font-size:30px;
+}
